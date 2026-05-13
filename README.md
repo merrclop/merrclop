@@ -53,14 +53,10 @@ I am a passionate System Administrator moving towards **DevOps**. My expertise l
   </a>
 </p>
 
----
-
 ### ☕ Support My Work
 <a href="https://send.monobank.ua/jar/2eN95dC4f1">
   <img src="https://img.shields.io/badge/Support_Me-Monobank-ffdd00?style=for-the-badge&logo=monobank&logoColor=black" alt="Support">
 </a>
-
----
 
 <img src="https://komarev.com/ghpvc/?username=merrclop&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views">
 
