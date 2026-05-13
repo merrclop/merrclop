@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="Logo" width="150" style="border-radius: 50%;">
+<img src="logo.png" align="center" alt="Logo" width="150" style="border-radius: 50%; display: block; margin: 0 auto;">
 
 # Hi, I'm Mykhailo 👋
 
@@ -15,8 +15,6 @@ I am a passionate System Administrator moving towards **DevOps**. My expertise l
 <a href="https://t.me/sudo_merrclop">
   <img src="https://img.shields.io/badge/Telegram-Sudo_merrclop-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Blog">
 </a>
-
----
 
 ### 🛠 Technical Stack
 
@@ -54,9 +52,13 @@ I am a passionate System Administrator moving towards **DevOps**. My expertise l
 </p>
 
 ### ☕ Support My Work
-<a href="https://send.monobank.ua/jar/2eN95dC4f1">
-  <img src="https://img.shields.io/badge/Support_Me-Monobank-ffdd00?style=for-the-badge&logo=monobank&logoColor=black" alt="Support">
-</a>
+<p align="center">
+  <a href="https://send.monobank.ua/jar/2eN95dC4f1">
+    <img src="https://img.shields.io/badge/Support_Me-Monobank-ffdd00?style=for-the-badge&logo=monobank&logoColor=black" alt="Support">
+  </a>
+</p>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=merrclop&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views">
 
