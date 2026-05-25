@@ -36,22 +36,27 @@ I am a passionate System Administrator moving towards **DevOps**. My expertise l
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://t.me/merrclop">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://www.instagram.com/merrclop?igsh=MW54OW9qY2p1bXgyMg==">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
-### ☕ Support My Work
-<p align="left">
-  <a href="https://send.monobank.ua/jar/2eN95dC4f1">
-    <img src="https://img.shields.io/badge/Support_Me-Monobank-ffdd00?style=for-the-badge&logo=monobank&logoColor=black" alt="Support">
-  </a>
-</p>
+<table width="100%" >
+  <tr>
+    <!-- Ліва частина: Соцмережі -->
+    <td align="left">
+      <h3>📫 Connect with Me</h3>
+      <a href="https://t.me/merrclop">
+        <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+      </a>
+      <a href="https://www.instagram.com/merrclop?igsh=MW54OW9qY2p1bXgyMg==">
+        <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+    <!-- Права частина: Донат -->
+    <td align="right">
+      <h3>☕ Support My Work</h3>
+      <a href="https://send.monobank.ua/jar/2eN95dC4f1">
+        <img src="https://img.shields.io/badge/Support_Me-Monobank-ffdd00?style=for-the-badge&logo=monobank&logoColor=black" alt="Support">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
