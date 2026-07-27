@@ -1,6 +1,3 @@
-
-
-```aura width=860 height=200 link="https://collectioneur.github.io/readme-aura/"
 <div style={{
   width: '100%', height: '100%', background: '#08080c',
   display: 'flex', alignItems: 'center', fontFamily: 'Inter',
@@ -101,21 +98,18 @@
     borderRadius: 48, background: 'linear-gradient(135deg, #6622ee, #0088ff)',
     display: 'flex', alignItems: 'center', justifyContent: 'center',
   }}>
-    <img src={github?.user?.avatarUrl ?? 'https://github.com/merrclop.png'} width={88} height={88} style={{ borderRadius: 44 }} />
+    <img src="https://github.com/merrclop.png" width={88} height={88} style={{ borderRadius: 44 }} />
   </div>
 
   <div style={{ display:'flex', flexDirection:'column', marginLeft:168, gap:8, zIndex: 10 }}>
     <div style={{ display:'flex', fontSize:38, fontWeight:800, color:'#ffffff', letterSpacing:'-1px', lineHeight:1 }}>
-      {github?.user?.name || github?.user?.login || 'merrclop' || 'Name'}
+      merrclop
     </div>
     <div style={{ display:'flex', fontSize:15, color:'rgba(180,165,255,0.8)', fontWeight:400, letterSpacing:'0.3px' }}>
-      {github?.user?.bio || 'Just another guy who Love Linux'}
+      DevOps &amp; OS Administration Specialist
     </div>
     <div style={{ display:'flex', gap:8, marginTop:6, flexWrap: 'wrap' }}>
-      {((github && github.languages && github.languages.length > 0)
-        ? github.languages.slice(0, 4).map(function(l) { return l.name; })
-        : ['Shell', 'Linux', 'Arch']
-      ).map(function(tag, i) {
+      {['DevOps', 'Linux', 'Bash/Shell', 'Python', 'CI/CD'].map(function(tag, i) {
         return (
           <div key={tag + '-' + i} style={{
             display:'flex', padding:'4px 12px', borderRadius:20,
@@ -127,10 +121,7 @@
     </div>
   </div>
 </div>
-```
 
-```aura width=860 height=22 link="https://collectioneur.github.io/readme-aura/"
-  <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', width: '100%', height: '100%', padding: 0, margin: 0 }}>
+<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', width: '100%', height: '100%', padding: 0, margin: 0 }}>
     <span style={{ fontSize: 12, lineHeight: 1, color: 'rgba(150,140,200,0.55)', fontWeight: 500, letterSpacing: '0.4px' }}>powered by readme-aura</span>
   </div>
-```
